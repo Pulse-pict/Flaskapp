@@ -1,3 +1,7 @@
+I hope you have build the environment explained in NOTE.md.
+To run the app you must install the environment first.
+
+
 first activate the environment by          
 $. bin/activate
 
